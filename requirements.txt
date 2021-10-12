@@ -94,7 +94,7 @@ nltk==3.3
 notebook==6.0.1
 numpy==1.18.1
 oauthlib==3.0.1
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.1.1.26
 opencv-python==3.4.8.29
 opt-einsum==3.1.0
 packbits==0.6
